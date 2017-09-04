@@ -1,4 +1,5 @@
-pline.h
+/*
+ * spline.h
  *
  * simple cubic spline interpolation library without external
  * dependencies

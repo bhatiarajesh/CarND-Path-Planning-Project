@@ -849,4 +849,16 @@ Eigen-3.3/Eigen/QR
 /Users/rbhatia/Personal/workspace/CarND/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/QR
 json.hpp
 /Users/rbhatia/Personal/workspace/CarND/CarND-Path-Planning-Project/src/json.hpp
+spline.h
+/Users/rbhatia/Personal/workspace/CarND/CarND-Path-Planning-Project/src/spline.h
+
+/Users/rbhatia/Personal/workspace/CarND/CarND-Path-Planning-Project/src/spline.h
+cstdio
+-
+cassert
+-
+vector
+-
+algorithm
+-
 
